@@ -1,38 +1,45 @@
 [
   {
-    "name": "Github",
-    "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+    "name": "商城主页",
+    "icon": "/images/icon/ai-cart.png",
+    "tip": "去商城主页逛逛",
+    "url": "kikyo.vip"
   },
   {
-    "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
+    "name": "联系方式",
+    "icon": "/images/icon/dianhualianxi.png",
+    "tip": "我的联系方式~",
+    "url": "https://flowus.cn/share/2e633c7b-3ee4-49bb-8eb6-7937b88d21e0?code=8CGTZJ"
   },
   {
-    "name": "QQ",
-    "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
-  },
+    "name": "KOOK语音",
+    "icon": "/images/icon/kook.png",
+    "tip": "KOOK语音",
+    "url": "https://kook.top/ITKyOU"
+  }
   {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "name": "YouTuBe",
+    "icon": "/images/icon/youtube.png",
+    "tip": "去油管看看视频",
+    "url": "https://www.youtube.com/@Kikyo1337"
   },
   {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
+    "tip": "Twitter",
+    "url": "https://twitter.com/"
   },
   {
     "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "icon": "/images/icon/Telegram.png",
+    "tip": "Telegram",
+    "url": "https://t.me/"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "欢迎洽谈合作~",
+    "url": "https://xn--jc5a32p.cn/"
   }
 ]
+
