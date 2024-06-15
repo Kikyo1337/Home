@@ -3,7 +3,7 @@
     "name": "商城主页",
     "icon": "/images/icon/zhuye.png",
     "tip": "去商城主页逛逛",
-    "url": "kikyo.vip"
+    "url": "https://kikyo.vip"
   },
   {
     "name": "联系方式",
@@ -16,7 +16,7 @@
     "icon": "/images/icon/kook.png",
     "tip": "KOOK语音",
     "url": "https://kook.top/ITKyOU"
-  }
+  },
   {
     "name": "YouTuBe",
     "icon": "/images/icon/youtube.png",
@@ -25,21 +25,14 @@
   },
   {
     "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
+    "icon": "/images/icon/twitter.png,
     "tip": "Twitter",
-    "url": "https://twitter.com/"
+    "url": "https://twitter.com"
   },
   {
     "name": "Telegram",
-    "icon": "/images/icon/Telegram.png",
-    "tip": "Telegram",
-    "url": "https://t.me/"
-  },
-  {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "欢迎洽谈合作~",
-    "url": "https://xn--jc5a32p.cn/"
+    "icon": "/images/icon/telegram.png",
+    "tip": "你懂的 ~",
+    "url": "https://t.me/bottom_user"
   }
 ]
-
