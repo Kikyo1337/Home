@@ -3,19 +3,7 @@
     "name": "商城主页",
     "icon": "/images/icon/zhuye.png",
     "tip": "去商城主页逛逛",
-    "url": "https://kikyo.vip"
-  },
-  {
-    "name": "联系方式",
-    "icon": "/images/icon/dianhualianxi.png",
-    "tip": "我的联系方式~",
-    "url": "https://flowus.cn/share/2e633c7b-3ee4-49bb-8eb6-7937b88d21e0?code=8CGTZJ"
-  },
-  {
-    "name": "KOOK语音",
-    "icon": "/images/icon/kook.png",
-    "tip": "KOOK语音",
-    "url": "https://kook.top/ITKyOU"
+    "url": "kikyo.vip"
   },
   {
     "name": "YouTuBe",
@@ -24,15 +12,33 @@
     "url": "https://www.youtube.com/@Kikyo1337"
   },
   {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "我的联系方式~",
+    "url": "https://flowus.cn/share/2e633c7b-3ee4-49bb-8eb6-7937b88d21e0?code=8CGTZJ"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "欢迎洽谈合作~",
+    "url": "https://mail.163.com/"
+  },
+  {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
     "tip": "Twitter",
-    "url": "https://twitter.com"
+    "url": "https://twitter.com/"
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "tip": "Telegram",
+    "url": "https://t.me/"
+  },
+  {
+    "name": "KOOK语音",
+    "icon": "/images/icon/discord.png",
+    "tip": "KOOK语音",
+    "url": "https://www.kookapp.cn/"
   }
 ]
